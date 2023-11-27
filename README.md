@@ -10,8 +10,7 @@
 
 ### Languages and frameworks I'm used to manage 🛠 
 
-![.NET 5](http://img.shields.io/badge/-.NET%205-blueviolet?style=flat-square&logo=.net&logoColor=ffffff)
-![.NET Core](http://img.shields.io/badge/-.NET%20Core-blueviolet?style=flat-square&logo=.net&logoColor=ffffff)
+![.NET](http://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=.net&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Angular](https://img.shields.io/badge/-Angular-CB3837?style=flat-square&logo=angular&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
